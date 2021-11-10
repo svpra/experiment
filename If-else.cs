@@ -18,6 +18,6 @@ class Program {
             Console.WriteLine("huy");
             }
         else:
-            Console.WriteLine("huynya")
+            Console.WriteLine("huynya");
         }
     }
