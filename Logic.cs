@@ -9,5 +9,8 @@ class Program {
         || x = "1"
 
         Console.WriteLine("huy");
+        
+        else: 
+            Console.WriteLine("huynya")
         }
     }
